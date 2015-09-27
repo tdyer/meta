@@ -1,0 +1,23 @@
+WDI Repository Naming Convention:
+
+See IMG_1298.JPG and IMG_1299.JPG for original notes.
+
+Should be all lowercase characters and hyphens as separators.
+
+(language|framework)-topic-[type]-[sequence]
+
+Examples:
+js-fundamentals
+js-fundamentals-assessment
+jquery-dom-manipulation
+rails-
+ruby-
+node-
+express-
+sql-
+mongo-
+mongoose-
+
+types:
+assessment, practice, lab, template, project.
+(Do not use demo, quiz, homework or lesson)
